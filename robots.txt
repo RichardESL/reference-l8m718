@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RichardESL.github.io/reference-l8m718/sitemap.xml
